@@ -22,7 +22,7 @@ const data = {
             numReviews: 10,
             description: 'high quality product'
         },
-        {
+        { 
             _id: '3',
             name: 'Lacoste Free Shirt',
             category: 'Shirts',

@@ -5,7 +5,7 @@ import data from './data'
 function App() {
   return (
     <div className="grid-container">
-      <header className="row">
+      <header className="row">  
         <div>
           <a className="brand" href="/">amazona</a>
         </div>
